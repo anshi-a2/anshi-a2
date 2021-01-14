@@ -1,5 +1,5 @@
 
-<img src="https://github.com/anshi-a2/anshi-a2/profile.jpg">
+<img src="https://github.com/anshi-a2/anshi-a2/blob/main/back.jpg">
 <hr>
 <center>### Hi there 👋, I'm Anshi Aggarwal</center>
 
