@@ -1,7 +1,6 @@
 ### Hi there 👋
+<img src="https://github.com/anshi-a2/anshi-a2/photo.jpg">
 
-<!--
-**anshi-a2/anshi-a2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
