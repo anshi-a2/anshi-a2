@@ -1,7 +1,7 @@
 
-<img src="https://github.com/anshi-a2/anshi-a2/blob/main/back.jpg">
+<p align="center"><img src="https://github.com/anshi-a2/anshi-a2/blob/main/back.jpg"></p>
 <hr>
-<p align="center">### Hi there 👋, I'm Anshi Aggarwal</p>
+<h2>Hi there 👋, I'm Anshi Aggarwal</h2>
 
 
 Here are some ideas to get you started:
